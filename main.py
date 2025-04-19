@@ -1,5 +1,6 @@
+print('This is a second test script.')
+print('This is a third test script.')
+print('This is a fourth test script.')
 print('This is a test script.')
 print('Hello, World!')
 print('Goodbye!')
-print('This is a second test script.')
-print('This is a third test script.')
